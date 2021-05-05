@@ -29,7 +29,7 @@ github_username:  jekyll
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
-
+baseurl: /
 markdown: kramdown
 
 # Exclude from processing.
